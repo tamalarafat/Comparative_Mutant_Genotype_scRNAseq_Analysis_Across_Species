@@ -4,7 +4,7 @@ sapply(scripts_list, source, .GlobalEnv)
 
 ###############################
 
-load("/netscratch/dep_tsiantis/grp_laurent/tamal/2023/Analyses/comparative_study_Cardamine_and_Arabidopsis_BLS_STM/Liger_Analyses/Liger_Analysis_strategy_2/On_coefficient/Seurat_objects/seurat_object_of_K_46.RData")
+load("/netscratch/dep_tsiantis/grp_laurent/tamal/2023/Analyses/comparative_study_Cardamine_and_Arabidopsis_BLS_STM/Liger_Analyses/Liger_Analysis_strategy_2/On_coefficient/Seurat_objects/seurat_object_of_K_50.RData")
 
 # Lets get the metadata file
 md = integrated.data@meta.data

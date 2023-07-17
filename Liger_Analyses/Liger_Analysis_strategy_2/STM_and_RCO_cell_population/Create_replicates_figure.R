@@ -4,19 +4,13 @@ sapply(scripts_list, source, .GlobalEnv)
 
 ###############################
 
-load("/netscratch/dep_tsiantis/grp_laurent/tamal/2022/Analyses/Hirsuta_n_BLS_STM/Seurat_Analysis/01_Integration_of_data/integrated_wt_hirsta_stm_seurat.RData")
-
-# Add - Dataset information
-integrated.data$Species <- factor(integrated.data$Species)
-integrated.data$Replicates <- factor(integrated.data$Replicates)
-integrated.data$Genotype <- factor(integrated.data$Genotype)
-integrated.data$Tissue <- factor(integrated.data$Tissue)
+load("/netscratch/dep_tsiantis/grp_laurent/tamal/2023/Analyses/comparative_study_Cardamine_and_Arabidopsis_BLS_STM/Liger_Analyses/Liger_Analysis_strategy_2/On_coefficient/Seurat_objects/seurat_object_of_K_50.RData")
 
 # Lets get the metadata file
 md = integrated.data@meta.data
 
 ############################ Set the resolution parameter ############################
-Idents(integrated.data) <- integrated.data$integrated_snn_res.0.5
+Idents(integrated.data) <- integrated.data$RNA_snn_res.0.3
 Idents(integrated.data) <- factor(Idents(integrated.data), levels = seq(0, length(levels(Idents(integrated.data))) - 1))
 paste("What is the active ident?", paste(levels(integrated.data@active.ident), collapse = ", "))
 ###########################################################################
