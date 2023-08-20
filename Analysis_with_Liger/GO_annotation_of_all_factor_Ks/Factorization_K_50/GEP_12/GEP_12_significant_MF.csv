@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0016765","GO:0016765","transferase activity, transferring alkyl or aryl (other than methyl) groups","5/81","155/21809",0.000281941856104605,0.0380621505741217,0.0320523373255762,"NA/ATGSTU20/ATGSTU19/ATCS-C/ATCYSD2",5
+"GO:0103075","GO:0103075","indole-3-pyruvate monooxygenase activity","2/81","11/21809",0.000733238014070239,0.0394994577245846,0.0332627012417555,"YUC/AtYUC4",2
+"GO:0042389","GO:0042389","omega-3 fatty acid desaturase activity","2/81","12/21809",0.000877765727212991,0.0394994577245846,0.0332627012417555,"AtFAD3/ADS2",2

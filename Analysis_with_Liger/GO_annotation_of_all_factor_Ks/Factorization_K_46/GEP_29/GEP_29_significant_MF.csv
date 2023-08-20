@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0000981","GO:0000981","DNA-binding transcription factor activity, RNA polymerase II-specific","6/29","272/21809",1.3295481073751e-06,6.64774053687551e-05,3.91866810594767e-05,"KNAT6/AtMYB117/BUM/NA/BP/AGL25",6
+"GO:0000978","GO:0000978","RNA polymerase II cis-regulatory region sequence-specific DNA binding","4/29","111/21809",1.36830524402515e-05,0.000342076311006287,0.000201644983330022,"KNAT6/AtMYB117/BUM/BP",4
+"GO:0000156","GO:0000156","phosphorelay response regulator activity","2/29","32/21809",0.000826110553348982,0.00826110553348982,0.00486970431447821,"ARR5/ARR6",2

@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0045229","GO:0045229","external encapsulating structure organization","5/38","331/21826",0.000259031199839845,0.0492528669653178,0.0387670740457219,"ATROPGEF4/ATLAP3/AtGH9B18/ATPMEPCRF/SCAP1",5
+"GO:0010052","GO:0010052","guard cell differentiation","2/38","18/21826",0.00044371952221007,0.0492528669653178,0.0387670740457219,"FMA/SCAP1",2

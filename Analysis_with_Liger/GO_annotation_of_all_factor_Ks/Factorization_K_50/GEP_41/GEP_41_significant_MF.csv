@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0004190","GO:0004190","aspartic-type endopeptidase activity","2/33","50/21809",0.00259909653429065,0.0486473194836289,0.0440955235085525,"NA/NA",2
+"GO:0070001","GO:0070001","aspartic-type peptidase activity","2/33","51/21809",0.0027026288602016,0.0486473194836289,0.0440955235085525,"NA/NA",2

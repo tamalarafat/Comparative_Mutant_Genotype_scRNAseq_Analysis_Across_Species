@@ -1,0 +1,2 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0009986","GO:0009986","cell surface","1/29","19/25052",0.0217743470054285,0.0435486940108569,0.0229203652688721,"AtAUX1",1

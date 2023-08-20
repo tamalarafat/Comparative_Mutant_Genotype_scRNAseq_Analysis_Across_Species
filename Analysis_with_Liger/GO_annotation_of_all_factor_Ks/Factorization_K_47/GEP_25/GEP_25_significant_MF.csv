@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0008236","GO:0008236","serine-type peptidase activity","3/29","190/21809",0.00201280145650824,0.0462944334996894,0.0307217064414415,"ATSBT1.1/scpl20/NA",3
+"GO:0017171","GO:0017171","serine hydrolase activity","3/29","190/21809",0.00201280145650824,0.0462944334996894,0.0307217064414415,"ATSBT1.1/scpl20/NA",3

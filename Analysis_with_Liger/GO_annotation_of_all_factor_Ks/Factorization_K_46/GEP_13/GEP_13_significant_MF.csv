@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0016717","GO:0016717","oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water","2/35","26/21809",0.000793723549814008,0.0304007282628014,0.0225357511214243,"NA/AAD6",2
+"GO:0015112","GO:0015112","nitrate transmembrane transporter activity","2/35","27/21809",0.000856358542614125,0.0304007282628014,0.0225357511214243,"ATNRT2.5/ATNRT2.3",2
+"GO:0016701","GO:0016701","oxidoreductase activity, acting on single donors with incorporation of molecular oxygen","2/35","38/21809",0.00169627115928249,0.040145084103019,0.0297591431453069,"ARD/MIOX4",2
