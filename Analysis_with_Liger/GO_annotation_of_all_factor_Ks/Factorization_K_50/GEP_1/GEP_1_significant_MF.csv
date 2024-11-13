@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0004144","GO:0004144","diacylglycerol O-acyltransferase activity","2/30","17/21809",0.000245601335838569,0.00809237046729172,0.00608448907315167,"WSD7/WSD1",2
-"GO:0047196","GO:0047196","long-chain-alcohol O-fatty-acyltransferase activity","2/30","22/21809",0.000415380916629886,0.00809237046729172,0.00608448907315167,"WSD7/WSD1",2
-"GO:0016411","GO:0016411","acylglycerol O-acyltransferase activity","2/30","24/21809",0.000495451253099493,0.00809237046729172,0.00608448907315167,"WSD7/WSD1",2

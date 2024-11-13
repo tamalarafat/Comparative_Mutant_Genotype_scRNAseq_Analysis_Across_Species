@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0016747","GO:0016747","transferase activity, transferring acyl groups other than amino-acyl groups","9/92","371/21809",2.71490808153858e-05,0.00386693729921481,0.00340589536558125,"ATGPAT4/ATGPAT6/NA/ATTSC13/CER26/CER2/NA/KCS19/ATGPAT7",9
-"GO:0016746","GO:0016746","transferase activity, transferring acyl groups","9/92","404/21809",5.26113918260519e-05,0.00386693729921481,0.00340589536558125,"ATGPAT4/ATGPAT6/NA/ATTSC13/CER26/CER2/NA/KCS19/ATGPAT7",9

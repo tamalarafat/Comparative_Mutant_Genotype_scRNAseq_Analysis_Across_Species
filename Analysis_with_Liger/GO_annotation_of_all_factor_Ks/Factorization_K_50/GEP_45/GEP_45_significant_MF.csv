@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0015035","GO:0015035","protein disulfide oxidoreductase activity","6/40","66/21809",2.15509284474625e-09,1.44391220597999e-07,1.13425939197171e-07,"CEPD1/ROXY7/GRXC11/GRXS4/GRXS5/ROXY10",6
-"GO:0009055","GO:0009055","electron transfer activity","6/40","159/21809",4.27177301785548e-07,7.15521980490792e-06,5.62075397086247e-06,"CEPD1/ROXY7/GRXC11/GRXS4/GRXS5/ROXY10",6

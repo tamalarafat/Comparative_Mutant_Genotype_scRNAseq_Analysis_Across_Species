@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0031225","GO:0031225","anchored component of membrane","8/64","314/25052",1.34080429667127e-06,1.74304558567265e-05,1.27023564947804e-05,"AtENODL18/NA/AtENODL9/LTPG5/NA/NA/NA/NA",8
-"GO:0046658","GO:0046658","anchored component of plasma membrane","4/64","173/25052",0.00101060888161812,0.00656895773051779,0.00478709470240163,"AtENODL18/NA/AtENODL9/NA",4

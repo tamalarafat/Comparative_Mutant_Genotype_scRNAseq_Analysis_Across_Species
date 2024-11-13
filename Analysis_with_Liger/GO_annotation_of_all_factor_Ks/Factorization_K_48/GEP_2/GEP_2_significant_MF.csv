@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0001228","GO:0001228","DNA-binding transcription activator activity, RNA polymerase II-specific","3/58","69/21809",0.000825681610841895,0.0404800502736749,0.0362189923501302,"NA/UKTF1/bhlh68",3
-"GO:0001216","GO:0001216","DNA-binding transcription activator activity","3/58","74/21809",0.00101200125684187,0.0404800502736749,0.0362189923501302,"NA/UKTF1/bhlh68",3

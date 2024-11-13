@@ -1,1 +1,0 @@
-Data Chirsuta in cluster 10 have less than 10 cells. For Chirsuta, DE analysis between groups or replicates in cluster 10 was not performed.

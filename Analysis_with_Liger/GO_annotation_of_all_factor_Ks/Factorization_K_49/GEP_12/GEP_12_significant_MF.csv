@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0103075","GO:0103075","indole-3-pyruvate monooxygenase activity","2/76","11/21809",0.000645865901237149,0.0479439598279765,0.0415134456914567,"YUC/AtYUC4",2
-"GO:0042389","GO:0042389","omega-3 fatty acid desaturase activity","2/76","12/21809",0.000773289674644782,0.0479439598279765,0.0415134456914567,"AtFAD3/ADS2",2

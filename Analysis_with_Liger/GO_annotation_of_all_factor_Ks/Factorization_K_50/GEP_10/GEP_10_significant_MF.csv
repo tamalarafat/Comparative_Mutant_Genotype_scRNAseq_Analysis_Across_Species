@@ -1,6 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0016709","GO:0016709","oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen","5/48","146/21809",1.70471525802068e-05,0.00163652664769985,0.00109460663936065,"BUS1/FMO/CYP83A1/CYP79B2/CYP79A2",5
-"GO:0008146","GO:0008146","sulfotransferase activity","2/48","18/21809",0.000709595205129451,0.02011342528568,0.0134530585792377,"ATSOT17/ATSOT18",2
-"GO:0008509","GO:0008509","anion transmembrane transporter activity","5/48","336/21809",0.000838059386903334,0.02011342528568,0.0134530585792377,"AtNPF1.2/LAX3/NPF2.3/BASS5/AST68",5
-"GO:0016667","GO:0016667","oxidoreductase activity, acting on a sulfur group of donors","3/48","117/21809",0.00218298190408543,0.0287365753077327,0.0192207356773212,"ATMSRB5/ATMSRA2/AtGRXC2",3
-"GO:0005506","GO:0005506","iron ion binding","4/48","324/21809",0.00556457520082842,0.0485635653890481,0.0324822093062712,"BUS1/CYP83A1/CYP79B2/CYP79A2",4
